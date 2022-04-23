@@ -1,0 +1,26 @@
+--------------------------------------------------------------------------------
+NB! Users of the file 'uppsala_tm_1722_2020.dat' 
+    are asked to refer to:
+    Bergström, H., Moberg, A. :
+    Daily air temperature and pressure series for Uppsala (1722-1998), 
+    Climate Change, 53:213-252.
+
+--------------------------------------------------------------------------------
+The file 'uppsala_tm_1722_2020.dat' contains:
+Daily temperature data for Uppsala 1722-2020.
+
+
+column       data
+1-3          Year, month, day
+4            Daily average temperature according to observations. 
+               Unit: °C
+5            Daily average temperatures corrected for the urban effect.
+             NOTE: The urban effects are here updated after 2000 and larger than
+             previously used due to an increased urban heat island at the site.
+6            Data id no. meaning data from:
+               1=Uppsala, 2=Risinge, 3=Betna, 4=Linköping, 5=Stockholm, 6=Interpolated
+               
+
+Uppsala 2021-01-30
+hans.bergstrom@met.uu.se
+hans.bergstrom@celsius.nu
