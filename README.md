@@ -1,6 +1,9 @@
 # DataVisualization
 This repository contains various data visualization projects.
 
+### Electric: [Electric vehicles](https://github.com/gilbertfontana/DataVisualization/tree/main/Electric)
+![](https://github.com/gilbertfontana/DataVisualization/blob/main/Electric/electric.png)
+
 ### Precipitation: [Variation in Precipitation](https://github.com/gilbertfontana/DataVisualization/tree/main/Rain)
 ![](https://github.com/gilbertfontana/DataVisualization/blob/main/Rain/rain.png)
 
