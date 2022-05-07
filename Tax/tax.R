@@ -69,8 +69,8 @@ showtext_auto(enable = TRUE)
 showtext_opts(dpi = 320) 
 
 ggsave("tax.png",
-       height = 9,
-       width = 13,
+       height = 8,
+       width = 10,
        dpi=320,
        
 )  
