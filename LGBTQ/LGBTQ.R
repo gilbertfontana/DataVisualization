@@ -4,7 +4,7 @@ library(ggstream)
 library(MetBrewer)
 library(showtext)
 
-hbtq <- as_tibble(read.csv("C:/Users/Gilbert/Downloads/LGBTQData - Data.csv"))
+hbtq <- as_tibble(read.csv("https://github.com/gilbertfontana/DataVisualization/blob/main/LGBTQ/LGBTQData%20-%20Data.csv"))
 
 
 font <- "Abril Fatface"
