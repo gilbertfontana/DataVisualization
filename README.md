@@ -1,6 +1,9 @@
 # DataVisualization
 This repository contains various data visualization projects.
 
+### LGBTQ: [Elected LGBTQ officials](https://github.com/gilbertfontana/DataVisualization/tree/main/LGBTQ)
+![](https://github.com/gilbertfontana/DataVisualization/blob/main/LGBTQ/LGBTQ.png)
+
 ### Tax revenue: [Tax revenue](https://github.com/gilbertfontana/DataVisualization/tree/main/Tax)
 ![](https://github.com/gilbertfontana/DataVisualization/blob/main/Tax/tax.png)
 
