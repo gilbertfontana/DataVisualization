@@ -1,6 +1,9 @@
 # DataVisualization
 This repository contains various data visualization projects.
 
+### Foundation: [Variation in foundation shade](https://github.com/gilbertfontana/DataVisualization/tree/main/Foundation)
+![](https://github.com/gilbertfontana/DataVisualization/blob/main/Foundation/Foundation.png)
+
 ### Ukraine: [Sympathy towards Ukrainians](https://github.com/gilbertfontana/DataVisualization/tree/main/Ukraine)
 ![](https://github.com/gilbertfontana/DataVisualization/blob/main/Ukraine/Ukraine.png)
 
