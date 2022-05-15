@@ -46,7 +46,7 @@ df %>%
     axis.title.y = element_blank(),
     axis.text = element_text(color=txt_col, size=12),
     plot.title = element_text(hjust=0, size=24, color=txt_col,lineheight=.8, face="bold", margin=margin(0,0,0,0)),
-    plot.subtitle = element_text(hjust=0, size=18, color=txt_col, margin=margin(10,0,20,0)),
+    plot.subtitle = element_text(hjust=0, size=16, color=txt_col, margin=margin(10,0,20,0)),
     plot.caption = element_text(hjust=.5,margin=margin(10,0,0,0), size=10, color=txt_col, face="bold"),
     plot.background = element_rect(color=bg, fill=bg),
     plot.margin = margin(30,30,30,30),
@@ -59,7 +59,7 @@ showtext_opts(dpi = 320)
 
 ggsave("Foundation.png",
        height = 7,
-       width = 9,
+       width = 7,
        dpi=320,
        
 )  
