@@ -1,6 +1,9 @@
 # DataVisualization
 This repository contains various data visualization projects.
 
+### Zoo: [Median Life Expectancy of Zoo Animals](https://github.com/gilbertfontana/DataVisualization/tree/main/Zoo)
+![](https://github.com/gilbertfontana/DataVisualization/blob/main/Zoo/Zoo.png)
+
 ### Foundation: [Variation in foundation shade](https://github.com/gilbertfontana/DataVisualization/tree/main/Foundation)
 ![](https://github.com/gilbertfontana/DataVisualization/blob/main/Foundation/Foundation.png)
 

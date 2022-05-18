@@ -8,7 +8,7 @@ library(MetBrewer)
 library(showtext)
 
 # Data
-df <- read_csv("C:/Users/Gilbert/Documents/GitHub/DataVisualization/Zoo/Data.csv") %>% 
+df <- read_csv("https://raw.githubusercontent.com/gilbertfontana/DataVisualization/main/Zoo/Data.csv") %>% 
   clean_names()
 
 df$species_common_name <- gsub(r"{\s*\([^\)]+\)}","",df$species_common_name)
