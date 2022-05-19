@@ -9,7 +9,7 @@ library(showtext)
 
 
 df <- read_csv("https://raw.githubusercontent.com/the-pudding/banknotes/master/src/data/banknotesData.csv")
-df2 <- read_csv("C:/Users/Gilbert/Documents/GitHub/DataVisualization/Banknotes/gii_data.csv",
+df2 <- read_csv("https://raw.githubusercontent.com/gilbertfontana/DataVisualization/main/Banknotes/gii_data.csv",
                     skip = 5) %>% 
   clean_names() %>% 
   select(country, x2019) %>% 

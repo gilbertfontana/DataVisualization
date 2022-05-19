@@ -1,6 +1,9 @@
 # DataVisualization
 This repository contains various data visualization projects.
 
+### Banknotes: [Cash is Queen?](https://github.com/gilbertfontana/DataVisualization/tree/main/Banknotes)
+![](https://github.com/gilbertfontana/DataVisualization/blob/main/Banknotes/Banknotes.png)
+
 ### Zoo: [Median Life Expectancy of Zoo Animals](https://github.com/gilbertfontana/DataVisualization/tree/main/Zoo)
 ![](https://github.com/gilbertfontana/DataVisualization/blob/main/Zoo/Zoo.png)
 
