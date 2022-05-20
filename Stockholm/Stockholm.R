@@ -8,7 +8,7 @@ library(scico)
 
 # Data
 deso <- st_read("C:/Users/Gilbert/Desktop/deso_2018_2021-10-21/DeSO_2018_v2.gpkg")
-df <-  read.csv("C:/Users/Gilbert/Documents/GitHub/DataVisualization/Stockholm/000001SM_20220520-095955.csv")
+df <-  read.csv("https://raw.githubusercontent.com/gilbertfontana/DataVisualization/main/Stockholm/000001SM_20220520-095955.csv")
 
 # Misc
 font <- "Fjalla One"
