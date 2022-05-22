@@ -1,6 +1,9 @@
 # DataVisualization
 This repository contains various data visualization projects.
 
+### Disease: [Pre Covid Disease Outbreaks](https://github.com/gilbertfontana/DataVisualization/tree/main/Disease)
+![](https://github.com/gilbertfontana/DataVisualization/blob/main/Disease/Disease.png)
+
 ### Life expectancy: [Life expectancy](https://github.com/gilbertfontana/DataVisualization/tree/main/Lifeexp)
 ![](https://github.com/gilbertfontana/DataVisualization/blob/main/Lifeexp/Lifeexp.png)
 
