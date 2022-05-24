@@ -1,6 +1,9 @@
 # DataVisualization
 This repository contains various data visualization projects.
 
+### Leaders: [Removal of political leaders](https://github.com/gilbertfontana/DataVisualization/tree/main/Leaders)
+![](https://github.com/gilbertfontana/DataVisualization/blob/main/Leaders/Leaders.png)
+
 ### UN: [UN peacekeeping fatalities](https://github.com/gilbertfontana/DataVisualization/tree/main/UN)
 ![](https://github.com/gilbertfontana/DataVisualization/blob/main/UN/UN.png)
 
