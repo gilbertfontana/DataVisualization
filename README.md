@@ -1,6 +1,9 @@
 # DataVisualization
 This repository contains various data visualization projects.
 
+### Visa: [Costs for work visa](https://github.com/gilbertfontana/DataVisualization/tree/main/Visa)
+![](https://github.com/gilbertfontana/DataVisualization/blob/main/Visa/Visa.png)
+
 ### Leaders: [Removal of political leaders](https://github.com/gilbertfontana/DataVisualization/tree/main/Leaders)
 ![](https://github.com/gilbertfontana/DataVisualization/blob/main/Leaders/Leaders.png)
 
