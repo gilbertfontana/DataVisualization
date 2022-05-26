@@ -1,6 +1,9 @@
 # DataVisualization
 This repository contains various data visualization projects.
 
+### Vote: [Political fragmentation in the EP election](https://github.com/gilbertfontana/DataVisualization/tree/main/Vote)
+![](https://github.com/gilbertfontana/DataVisualization/blob/main/Vote/Vote.png)
+
 ### Visa: [Costs for work visa](https://github.com/gilbertfontana/DataVisualization/tree/main/Visa)
 ![](https://github.com/gilbertfontana/DataVisualization/blob/main/Visa/Visa.png)
 
