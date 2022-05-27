@@ -1,6 +1,9 @@
 # DataVisualization
 This repository contains various data visualization projects.
 
+### Obesity: [World obesity](https://github.com/gilbertfontana/DataVisualization/tree/main/Obesity)
+![](https://github.com/gilbertfontana/DataVisualization/blob/main/Obesity/Obesity.png)
+
 ### Tarantino: [Tarantino movie deaths](https://github.com/gilbertfontana/DataVisualization/tree/main/Tarantino)
 ![](https://github.com/gilbertfontana/DataVisualization/blob/main/Tarantino/Tarantino.png)
 
