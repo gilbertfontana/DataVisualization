@@ -1,6 +1,9 @@
 # DataVisualization
 This repository contains various data visualization projects.
 
+### Tarantino: [Tarantino movie deaths](https://github.com/gilbertfontana/DataVisualization/tree/main/Tarantino)
+![](https://github.com/gilbertfontana/DataVisualization/blob/main/Tarantino/Tarantino.png)
+
 ### Vote: [Political fragmentation in the EP election](https://github.com/gilbertfontana/DataVisualization/tree/main/Vote)
 ![](https://github.com/gilbertfontana/DataVisualization/blob/main/Vote/Vote.png)
 
