@@ -1,6 +1,9 @@
 # DataVisualization
 This repository contains various data visualization projects.
 
+### Population: [World population prospects](https://github.com/gilbertfontana/DataVisualization/tree/main/Population)
+![](https://github.com/gilbertfontana/DataVisualization/blob/main/Population/Population.png)
+
 ### Bond: [Government bond interest rates](https://github.com/gilbertfontana/DataVisualization/tree/main/Bond)
 ![](https://github.com/gilbertfontana/DataVisualization/blob/main/Bond/Bond.png)
 
