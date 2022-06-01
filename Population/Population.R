@@ -57,7 +57,7 @@ df2 %>%
   labs(
     title = "World Population Today\n- And Tomorrow",
     caption = "Gilbert Fontana | Data: UN World Population Prospects 2019",
-    y="Total population"
+    y="Total population (thousands)"
   ) +
   theme(
     panel.grid = element_blank(),
