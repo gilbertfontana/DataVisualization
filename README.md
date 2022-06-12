@@ -1,6 +1,9 @@
 # DataVisualization
 This repository contains various data visualization projects.
 
+### Hong Kong: [Political prisoners in Hong Kong](https://github.com/gilbertfontana/DataVisualization/tree/main/Hongkong)
+![](https://github.com/gilbertfontana/DataVisualization/blob/main/Hongkong/Hongkong.png)
+
 ### Shooting: [Victims in School Shootings](https://github.com/gilbertfontana/DataVisualization/tree/main/Shooting)
 ![](https://github.com/gilbertfontana/DataVisualization/blob/main/Shooting/Shooting.png)
 
