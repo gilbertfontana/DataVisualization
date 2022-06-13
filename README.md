@@ -1,6 +1,9 @@
 # DataVisualization
 This repository contains various data visualization projects.
 
+### Wealth: [U.S. Wealth Distribution](https://github.com/gilbertfontana/DataVisualization/tree/main/Wealth)
+![](https://github.com/gilbertfontana/DataVisualization/blob/main/Wealth/Wealth.png)
+
 ### Hong Kong: [Political prisoners in Hong Kong](https://github.com/gilbertfontana/DataVisualization/tree/main/Hongkong)
 ![](https://github.com/gilbertfontana/DataVisualization/blob/main/Hongkong/Hongkong.png)
 
