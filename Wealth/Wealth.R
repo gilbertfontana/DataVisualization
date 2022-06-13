@@ -10,7 +10,7 @@ library(zoo)
 
 # Data
 df <- read_csv(
-"C:/Users/Gilbert/Documents/GitHub/DataVisualization/Wealth/dfa-income-levels.csv"
+"C:/Users/Gilbert/Documents/GitHub/DataVisualization/Wealth/dfa-networth-shares.csv"
 ) %>% clean_names()
 
 
@@ -66,7 +66,7 @@ df2 %>%
   coord_cartesian(clip="off") +
   labs(
     title="The U.S. Household Wealth Distribution",
-    subtitle = "The top 10 percent of American households possess almost\n70 percent of the total household wealth",
+    subtitle = "The 10 percent wealthiest households possess almost\n70 percent of the total household wealth",
     caption = "Gilbert Fontana | Data: The Federal Reserve",
     y="Share of total wealth (%)"
   ) +
