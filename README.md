@@ -1,6 +1,9 @@
 # DataVisualization
 This repository contains various data visualization projects.
 
+### Laser: [Laser strikes on Aircrafts](https://github.com/gilbertfontana/DataVisualization/tree/main/Laser)
+![](https://github.com/gilbertfontana/DataVisualization/blob/main/Laser/Laser.png)
+
 ### Wealth: [U.S. Wealth Distribution](https://github.com/gilbertfontana/DataVisualization/tree/main/Wealth)
 ![](https://github.com/gilbertfontana/DataVisualization/blob/main/Wealth/Wealth.png)
 
