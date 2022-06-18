@@ -90,7 +90,7 @@ ggplot() +
                arrange(desc(cumsum)) %>% 
                ungroup() %>% 
                slice_head(n=4),
-             aes(x = incident_date, y = cumsum, label=state, color=state)) +
+             aes(x = incident_date, y = cumsum, color=state)) +
   geom_text(data=df2 %>% 
               group_by(state) %>%
               arrange(cumsum) %>% 
@@ -112,7 +112,7 @@ ggplot() +
   coord_cartesian(clip="off") +
   labs(
     title = "Laser Strikes on Aircrafts",
-    subtitle = "Pointing a laser at an aircraft remain a serious threat to aviation safety\nand is is a federal crime. Over the last years, laser strike incidents has\nincreased in many states.",
+    subtitle = "Pointing a laser at an aircraft remain a serious threat to aviation safety\nand is a federal crime. Over the last years, laser strike incidents has\nincreased in many states.",
     caption = "Gilbert Fontana | Data: Federal Aviation Administration",
     y="Cumulative number of incidents"
   ) +
