@@ -83,10 +83,14 @@ showtext_auto(enable = TRUE)
 ggplot() +
   geom_line(data=df2 %>% filter(state %in% top4), aes(x=incident_date, y=cumsum, color=state)) +
   geom_line(data=df2 %>% filter(!state %in% top4), aes(x=incident_date, y=cumsum, group=state), color="grey80") +
-  scale_x_datetime(expand = c(0,0)) +
-  scale_y_continuous(expand = c(0,0),
-                     labels=function(x) format(x, big.mark = " ", scientific = FALSE)) +
-  scale_color_manual(values = met.brewer("Renoir")) +
+  geom_point(data=df2 %>% 
+               group_by(state) %>%
+               arrange(cumsum) %>% 
+               slice_max(cumsum) %>% 
+               arrange(desc(cumsum)) %>% 
+               ungroup() %>% 
+               slice_head(n=4),
+             aes(x = incident_date, y = cumsum, label=state, color=state)) +
   geom_text(data=df2 %>% 
               group_by(state) %>%
               arrange(cumsum) %>% 
@@ -94,12 +98,17 @@ ggplot() +
               arrange(desc(cumsum)) %>% 
               ungroup() %>% 
               slice_head(n=4),
-            aes(x = incident_date + 1000000, y = cumsum, label=state, color=state),
+            aes(x = incident_date + 2000000, y = cumsum, label=state, color=state),
             hjust = 0,
             vjust = 0.5,
             size=3,
             family=font,
             fontface="bold") +
+  scale_x_datetime(expand = c(0,0)) +
+  scale_y_continuous(expand = c(0,0),
+                     labels=function(x) format(x, big.mark = " ", scientific = FALSE)) +
+  scale_color_manual(values = met.brewer("Renoir")) +
+
   coord_cartesian(clip="off") +
   labs(
     title = "Laser Strikes on Aircrafts",
