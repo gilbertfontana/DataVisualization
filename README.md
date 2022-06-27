@@ -1,6 +1,9 @@
 # DataVisualization
 This repository contains various data visualization projects.
 
+### The Swedish Riksbanks policy rate: [Policy rate](https://github.com/gilbertfontana/DataVisualization/tree/main/Policy_rate)
+![](https://github.com/gilbertfontana/DataVisualization/blob/main/Policy_rate/Policy_rate.png)
+
 ### Laser: [Laser strikes on Aircrafts](https://github.com/gilbertfontana/DataVisualization/tree/main/Laser)
 ![](https://github.com/gilbertfontana/DataVisualization/blob/main/Laser/Laser.png)
 
