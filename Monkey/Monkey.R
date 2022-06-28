@@ -61,7 +61,7 @@ df2 %>%
     axis.title.y  = element_text(color=txt_col, hjust=.5),
     axis.title.x  = element_blank(),
     axis.line = element_line(),
-    plot.title = element_text(hjust=0.5,size=26, color=txt_col,lineheight=.8, face="bold", margin=margin(0,0,20,0)),
+    plot.title = element_text(hjust=0.5,size=26, color=txt_col,lineheight=1, face="bold", margin=margin(0,0,20,0)),
     plot.caption = element_text(hjust=.5, margin=margin(20,0,0,0), size=8, color=txt_col, face="bold"),
     plot.title.position = "plot",
     plot.background = element_rect(color=bg, fill=bg),
