@@ -1,7 +1,7 @@
 # DataVisualization
 This repository contains various data visualization projects.
 
-### Monkeypox virus: [Monkeypox](https://github.com/gilbertfontana/DataVisualization/tree/main/PMonkey)
+### Monkeypox virus: [Monkeypox](https://github.com/gilbertfontana/DataVisualization/tree/main/Monkey)
 ![](https://github.com/gilbertfontana/DataVisualization/blob/main/Monkey/Monkey.png)
 
 ### The Swedish Riksbanks policy rate: [Policy rate](https://github.com/gilbertfontana/DataVisualization/tree/main/Policy_rate)
