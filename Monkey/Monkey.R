@@ -27,7 +27,7 @@ df2 <- df %>%
 font <- "Marvel"
 font_add_google(family=font, font)
 theme_set(theme_minimal(base_family = font))
-bg <- "ivory"
+bg <- "#E8E8D0"
 txt_col <- "grey20"
 showtext_auto(enable = TRUE)
 
