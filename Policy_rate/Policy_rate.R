@@ -1,19 +1,16 @@
 
 
 
-
+# Libs
 library(tidyverse)
 library(janitor)
 library(MetBrewer)
 library(showtext)
 
-
-
-
-df <- readxl::read_excel("C:/Users/Gilbert/Desktop/cbpol_2206.xlsx", sheet="Monthly Series",skip = 3) %>% 
+# Data
+df <- readxl::read_excel("C:/Users/Gilbert/Documents/GitHub/DataVisualization/Policy_rate/cbpol_2206.xlsx", sheet="Monthly Series",skip = 3) %>% 
   clean_names() %>% 
   select(period, m_se) 
-
 
 
 # Misc
@@ -37,7 +34,7 @@ df %>%
            hjust=0,
            vjust=1) +
   annotate("text", x=as.POSIXct("2008-01-01"), y=7,
-           label="In 2014 The Riksbank\ncut the policy rate to 0\npercent in order to\nincrease demand in the\neconomy and bring\ninflation up.",
+           label="In 2014 the Riksbank\ncut the policy rate to 0\npercent in order to\nincrease demand in the\neconomy and bring\ninflation up.",
            color=txt_col,
            family=font,
            fontface="bold",
